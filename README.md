@@ -13,3 +13,15 @@ Project Overview:
 
 Current Challenges: 
 The LDA model takes a very long time to run. The one for the entire corpus took an entire day. 
+
+References: 
+Munoz Amparao, Phillips Susan, Ann Ruiz Mary.  
+A REGION IN CRISIS: The Rationale for a Public Health State of Emergency in the Inland Empire, https://calmatters.org/wp-content/uploads/2022/06/State-of-Emergency-Public-Health-Request.pdf 
+
+Most Polluted Places to Live. https://www.lung.org/research/sota/key-findings/most-polluted-places 
+
+Which Inland Empire cities have the most warehouses? 
+https://www.pressenterprise.com/2022/12/19/which-inland-empire-cities-have-the-most-warehouses/#:~:text=McCarthy%20said%20the%20map%20also,rounding%20out%20the%20top%20five. 
+
+Kozlowski, A. C., Taddy, M., & Evans, J. A. (2019). 
+The Geometry of Culture: Analyzing the Meanings of Class through Word Embeddings. American Sociological Review, 84(5), 905-949. https://doi.org/10.1177/0003122419877135
