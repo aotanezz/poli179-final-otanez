@@ -14,7 +14,9 @@ Project Overview:
 Current Challenges: 
 The LDA model takes a very long time to run. The one for the entire corpus took an entire day. 
 
+
 References: 
+
 Munoz Amparao, Phillips Susan, Ann Ruiz Mary.  
 A REGION IN CRISIS: The Rationale for a Public Health State of Emergency in the Inland Empire, https://calmatters.org/wp-content/uploads/2022/06/State-of-Emergency-Public-Health-Request.pdf 
 
