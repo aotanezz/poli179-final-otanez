@@ -12,7 +12,9 @@ Project Overview:
 5. LDA across 3 decades to compare changes over time - In progress
 
 Current Challenges: 
+
 The LDA model takes a very long time to run. The one for the entire corpus took an entire day. 
+
 
 
 References: 
