@@ -16,7 +16,7 @@ The approval of new warehouses is decided at the local level. My research focuse
 6. LDA across 3 decades to compare changes over time - In progress
 
 ## Challenges
-The LDA model takes a very long time to run. The one for the entire corpus took an entire day. 
+The LDA model takes a very long time to run. The one for the entire corpus took an entire day. I was originally going to apply Word2Vec as well, but due to time constraints I will only be using LDA. However, after running the initial model on the entire corpus, these results are very informative and do a nice job of answering my research question.
 
 ## References
 Munoz Amparao, Phillips Susan, Ann Ruiz Mary.  
