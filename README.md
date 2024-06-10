@@ -25,9 +25,7 @@ Latent Dirichlet Allocation (LDA): a topic modeling technique to extract topics 
 3. Apply LDA model on a filtered corpus based on a given decade (`LDA_Decades.ipynb`). Resulted in 2 different models based on: 2003-2013 and 2014-2014 data. Compared the topic difference in these two models to establish changes over time.
 
 ## Results 
-Files to run the models can be found in the `Analysis` folder and all plots can be found in the `Plots` folder. 
-
-Below are the primary results.
+Files to run the models can be found in the `Analysis` folder and all plots can be found in the `Plots` folder. Below are the primary results:
 
 Most prevelant topic (41%) of text classified as "industrial" 
 ![image](https://github.com/aotanezz/poli179-final-otanez/blob/main/Images/lda_industrial_top1.png)
