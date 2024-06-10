@@ -17,6 +17,13 @@ Google Drive of combine data: https://drive.google.com/file/d/1or3ZNrS9mVwjXdhX2
 
 **N = 5,526** 
 
+## Methods
+Latent Dirichlet Allocation (LDA): a topic modeling technique to extract topics from a given corpus as a set of probability distributions of word frequency within a topic, and topic size in a corpus.
+
+1. Apply LDA model to the entire corpus to gain insight of overall topics in corpus (`LDA_Corpus.ipynb`)
+2. Apply LDA model on a filtered corpus based on classified text on a set of keywords (`LDA_Keywords.ipynb`). Resulted in 3 different models based on: industrial, recreation, and transportation keywords. Compared the topic difference against the industrial model. 
+3. Apply LDA model on a filtered corpus based on a given decade (`LDA_Decades.ipynb`). Resulted in 2 different models based on: 2003-2013 and 2014-2014 data. Compared the topic difference in these two models to establish changes over time. 
+
 ## References
 
 ### Background
