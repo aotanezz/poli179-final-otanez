@@ -7,6 +7,16 @@ The Inland Empire (IE) is located in Southern California, east of Los Angeles, m
 
 The approval of new warehouses is decided at the local level. My research focuses on Ontario, Fontana, Rialto, Chino, and the March Joint Powers Authority who are the regions with the highest concentration of warehouses in the IE. My project seeks to understand conversations occurring at the local level, as if this a relatively understudied issue, with little understanding of its causes and effects. To understand the dynamic between warehousing and local governments, I chose to analyze the city council agenda/meeting minutes of the cities of interest. 
 
+## Research Question
+My main goal is to understand the dynamics between local governments and warehousing. I want to determine if there is a difference between conversations surrounding beneficial programs such as public recreation and transportation compared to warehousing. Is one type of program mentioned more?
+
+## Data
+Scraped the city council meeting agenda/minutes of Ontario, Fontana, Rialto, Chino, and the March Joint Powers Authority. Templates to scrape the data can be found in the `Web Scraping` folder. Each website was scraped indivually and combined into one file. A PDF (that must be downloaded to access the links) can be found in the `Data` folder, within the folder there is a small sample of the data for reference. 
+
+Google Drive of combine data: https://drive.google.com/file/d/1or3ZNrS9mVwjXdhX2DUCPjRyUwgrauiv/view?usp=sharing 
+
+**N = 5,526** 
+
 ## References
 
 ### Background
