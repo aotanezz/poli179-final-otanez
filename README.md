@@ -30,8 +30,20 @@ Files to run the models can be found in the `Analysis` folder and all plots can 
 Below are the primary results.
 
 Most prevelant topic (41%) of text classified as "industrial" 
-! [image](https://github.com/aotanezz/poli179-final-otanez/blob/main/Images/lda_industrial_top1.png)
+![image](https://github.com/aotanezz/poli179-final-otanez/blob/main/Images/lda_industrial_top1.png)
 
+### Keywords
+
+Industrial vs. Recreation
+![image](https://github.com/aotanezz/poli179-final-otanez/blob/main/Images/indrec_topic_diff.png)
+
+Industrial vs. Transportation
+![image](https://github.com/aotanezz/poli179-final-otanez/blob/main/Images/indtra_topic_diff.png)
+
+### Decades
+
+2003-2013 vs. 2014-2024
+![image](https://github.com/aotanezz/poli179-final-otanez/blob/main/Images/decade_topic_diff.png)
 
 ## References
 
